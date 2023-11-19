@@ -1,0 +1,54 @@
+.inicio{
+    background-color: rgb(125, 87, 160);
+}
+.logo{
+    height: 120px;
+    padding-left: 30%;
+}
+#texto{
+    display: inline-block;
+    vertical-align: center;
+    color: rgb(192, 208, 209);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size:xxx-large;
+  }
+.img-container{
+    text-align: center;
+    margin: -60px;
+    margin-top: 10px;
+}
+.maravillas{
+    height: 150px;
+    width: 150;
+}
+.grid-layout{
+    
+    margin: 150px;
+    background-color: rgb(255, 255, 255);
+}
+
+.container-antiguas{
+    display: flex;
+    flex-direction: column;
+    } 
+.imagen-antiguas{
+    width: 950px;
+    height: 450px;
+} 
+.imagen-modernas{
+    width: 950px;
+    height: 450px;
+}
+button:hover{
+    background-color: rgb(127, 127, 190);
+}
+.the-container{
+    background-color: rgb(209, 196, 224);
+    margin: 50px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(219, 198, 198);
+    text-decoration-color: beige;
+}

@@ -1,0 +1,28 @@
+.inicio{
+    background-color: rgb(125, 87, 160);
+}
+.logo{
+    height: 120px;
+    padding-left: 30%;
+}
+#texto{
+    display: inline-block;
+    vertical-align: center;
+    color: rgb(192, 208, 209);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size:xxx-large;
+}
+.container-flex{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    gap: 20px;
+}
+.card-img-top{
+    height: 150px;
+    width: 287px;
+}
+button:hover{
+    background-color: rgb(127, 127, 190);
+}
